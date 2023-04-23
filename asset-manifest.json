@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bulbulreact/static/css/main.5b8a3616.css",
+    "main.js": "/bulbulreact/static/js/main.4dc16ae1.js",
+    "static/js/787.683e1101.chunk.js": "/bulbulreact/static/js/787.683e1101.chunk.js",
+    "static/media/casual-life-3d-girl-with-tablet-and-working-process-on-desktop.png": "/bulbulreact/static/media/casual-life-3d-girl-with-tablet-and-working-process-on-desktop.41452b369c09c6f944a7.png",
+    "index.html": "/bulbulreact/index.html",
+    "main.5b8a3616.css.map": "/bulbulreact/static/css/main.5b8a3616.css.map",
+    "main.4dc16ae1.js.map": "/bulbulreact/static/js/main.4dc16ae1.js.map",
+    "787.683e1101.chunk.js.map": "/bulbulreact/static/js/787.683e1101.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b8a3616.css",
+    "static/js/main.4dc16ae1.js"
+  ]
+}
